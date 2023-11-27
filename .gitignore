@@ -1,0 +1,10 @@
+node_modules/
+/test-results/
+/allure-results/
+/allure-report/
+/playwright-report/
+/playwright/.cache/
+package-lock.json
+
+# IntelliJ’s project specific settings file
+.idea/
